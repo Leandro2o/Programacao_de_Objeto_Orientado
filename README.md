@@ -1,18 +1,18 @@
-# 🚀 [Programação de Objeto Orientado]
+# 🚀 [Object-Oriented Programming]
 
-> Nesse repositorio esta todas as atividades feita em sala de aula sobre a programção de objetos orientados (POO).
+> This repository contains all the activities done in class about object-oriented programming (OOP).
 
-## 💻 Sobre
-Este projeto foi criado com o objetivo de praticar programação. Aqui você encontrará códigos focados no aprendizado e desenvolvimento contínuo.
+## 💻 About
+This project was created with the goal of practicing programming. Here you will find code focused on learning and continuous development.
 
-## 🛠️ Tecnologias
-As seguintes ferramentas e linguagens foram utilizadas neste projeto:
+## 🛠️ Technologies
+The following tools and languages ​​were used in this project:
 
 * [Java]
 
-## ⚙️ Como Executar
+## ⚙️ How to Run
 
-Para rodar este projeto na sua máquina, siga os passos abaixo:
+To run this project on your machine, follow the steps below:
 
 1. Clone o repositório:
    ```bash
